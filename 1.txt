@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>이연서 홈페이지</title>
+	<meta charset="utf-8">
+</head>
+<body>
+	<header>
+        	<h1><a href="index.html">이연서</a></h1>
+	</header>
+	<nav>
+        <ol>
+        	<li><a href="1.html">교육</a></li>
+        	<li><a href="2.html">놀이</a></li>
+        	<li><a href="3.html">약속</a></li>              
+        </ol>
+		
+	<ol>
+		<li><a href="1-1.html">국어</a></li>
+		<li><a href="1-2.html">수학</a></li>
+		<li><a href="1-3.html">노피곰</a></li>
+		<li><a href="1-4.html">영어</a></li>
+		<li><a href="1-5.html">한자</a></li>
+	</ol>
+    </nav>
+	<p>공부하는 곳이야!!</p>
+</body>
+</html>
